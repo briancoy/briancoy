@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **briancoy/briancoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Brian Coy
 **M.S. Analytics Candidate @ Georgia Tech** | *Computational Data Analytics*
 
@@ -24,43 +21,37 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 
 ---
 
-## 🚀 Featured Projects
-
-### ♟️ Chess Fair-Play & Anomaly Detection
-*Architecting large-scale ETL and fraud detection frameworks.*
-* **Objective:** Identify cheating patterns in online chess using move-level sequential analysis.
-* **Tech:** Python, SQLite, Scikit-learn, Pandas.
-* **Impact:** Processed **12.2 million records** and evaluated **One-Class SVM** and **Random Forest** models to prove that aggregate metrics (Accuracy vs. ELO) are insufficient for fraud detection.
-
-### 📊 Bayesian Hierarchical Modeling
-*Statistical inference on US maternal health disparities.*
-* **Objective:** Explore drivers of preterm birth disparities among Medicaid-covered births (2020-2022).
-* **Tech:** Python, **PyMC**, Bayesian GLM.
-* **Impact:** Developed hierarchical regression models to communicate complex health drivers visually for non-technical stakeholders.
+### 📈 Professional Impact & Results
+* **Operational Efficiency:** Leveraged exploratory data analysis to drive a **64% reduction in open tickets** within 6 months at ProMAX Systems.
+* **System Transformation:** Engineered SQL pipelines that achieved a **99% reduction in paper usage** and cut client processing time by **5 days**.
+* **Large-Scale ETL:** Architected a Python pipeline to ingest and store **12.2 million game records** for anomaly detection research.
 
 ---
 
-## 🛠️ Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn, PyMC), R, SQL, PowerShell |
-| **Data Engineering** | ETL Pipeline Design, SQL Server, MySQL, SQLite, Git |
-| **Data Science** | Bayesian Inference, Random Forests, Neural Networks, Hidden Markov Models |
-| **Visualization** | Tableau, Seaborn, Matplotlib, LaTeX |
+### 🧪 Featured Projects
+* **Chess Fair-Play Analysis:** Evaluated **K-Means**, **One-Class SVM**, and **Random Forest** models to detect cheating patterns in a massive dataset.
+* **[Bayesian Health Modeling](https://github.com/briancoy/Preterm_Birth):** Developed hierarchical regression and **Bayesian GLM** models using **PyMC** to explore drivers of US maternal health disparities.
+* **PowerShell Automation:** Designed scripts to enable remote software deployment, eliminating 3–6 days of downtime previously required for physical imaging.
 
 ---
 
-## 📈 Professional Impact
-* **ProMAX Systems:** Leveraged exploratory data analysis to drive a **64% reduction in open tickets** and developed automation that eliminated 3–6 days of system downtime.
-* **Kentucky Farmworker Programs:** Engineered SQL pipelines that achieved a **99% reduction in paper usage** and cut client processing time by **5 days**.
+### 🚧 Currently in Development
+* **ARC-AGI Agent (Knowledge-Based AI):** Implementing an agent based on the **CompressARC / MADIL** framework. The agent solves novel visual reasoning tasks by identifying transformations that minimize description length (Minimum Additive Description Information Length).
+* **Healthcare Analytics Practicum:** Upcoming group project (Spring 2026) focused on predictive modeling and statistical inference for clinical or operational medical outcomes.
 
 ---
 
-## 🎓 Education and Certifications
-* **Georgia Institute of Technology** | M.S. Analytics (Computational Track) | *Expected 2026*
-* **Western Kentucky University** | B.A. Mathematics (Writing Minor)
-* **Coursera** | Google Data Analytics Certificate
+### 🛠️ Technical Stack
+* **Data Science & ML:** Bayesian Inference, Random Forests, SVM, Neural Networks, PyMC, Scikit-learn.
+* **Engineering:** Python (Pandas, NumPy), R, SQL (BigQuery, SQL Server, SQLite), PowerShell, Git.
+* **Visualization:** Tableau, Seaborn, Matplotlib, LaTeX.
+
+---
+
+### 🎓 Education & Certifications
+* **Georgia Institute of Technology:** M.S. Analytics (Computational Track) — *Expected Dec 2026*.
+* **Western Kentucky University:** B.A. Mathematics (Writing Minor).
+* **Google Data Analytics Professional Certificate:** Issued by Coursera.
 
 ---
 *“I translate complex analyses into actionable insights for both technical and non-technical stakeholders.”*
