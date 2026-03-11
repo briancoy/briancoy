@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Highly analytical professional with a background in Mathematics and 17+ years of experience in technical operations. Currently specializing in Bayesian statistics, machine learning pipelines, and translating high-dimensional data into actionable business outcomes.
 
-[📄 View My Resume](./Brian_Coy_Resume_2026.pdf) | [🔗 LinkedIn](https://linkedin.com/in/briancoybg)
+[📄 View My Resume](./Brian_Coy_Resume_2026.pdf) | [🔗 LinkedIn](https://linkedin.com/in/briancoy)
 
 ---
 
