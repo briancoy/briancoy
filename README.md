@@ -23,7 +23,7 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 
 ### 📈 Professional Impact & Results
 * **Operational Efficiency:** Leveraged exploratory data analysis to drive a **64% reduction in open tickets** within 6 months at ProMAX Systems.
-* **System Transformation:** Engineered SQL pipelines that achieved a **99% reduction in paper usage** and cut client processing time by **5 days**.
+* **System Transformation:** Engineered SQL pipelines that achieved a **96% reduction in paper usage** and cut client processing time by **5 days**.
 * **Large-Scale ETL:** Architected a Python pipeline to ingest and store **12.2 million game records** for anomaly detection research.
 
 ---
@@ -32,7 +32,7 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 * **[Chess Fair-Play Analysis](https://github.com/briancoy/Categorization_of_Cheaters_in_Chess/blob/main/Categorization_of_Cheaters_in_Chess.pdf):** Evaluated **K-Means**, **One-Class SVM**, and **Random Forest** models to detect cheating patterns in a massive dataset.
 * **[Bayesian Health Modeling](https://github.com/briancoy/Preterm_Birth):** Developed hierarchical regression and **Bayesian GLM** models using **PyMC** to explore drivers of US maternal health disparities.
 * **PowerShell Automation:** Designed scripts to enable remote software deployment, eliminating 3–6 days of downtime previously required for physical imaging.
-
+  
 ---
 
 ### 🚧 Currently in Development
