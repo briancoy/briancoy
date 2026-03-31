@@ -54,4 +54,4 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 * **Google Data Analytics Professional Certificate:** Issued by Coursera.
 
 ---
-*“I translate complex analyses into actionable insights for both technical and non-technical stakeholders.”*
+*I translate complex analyses into actionable insights for both technical and non-technical stakeholders.*
