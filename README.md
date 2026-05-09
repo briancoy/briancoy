@@ -32,10 +32,6 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 * **[Chess Fair-Play Analysis](https://github.com/briancoy/Categorization_of_Cheaters_in_Chess/blob/main/Categorization_of_Cheaters_in_Chess.pdf):** Evaluated **K-Means**, **One-Class SVM**, and **Random Forest** models to detect cheating patterns in a massive dataset.
 * **[Bayesian Health Modeling](https://github.com/briancoy/Preterm_Birth):** Developed hierarchical regression and **Bayesian GLM** models using **PyMC** to explore drivers of US maternal health disparities.
 * **PowerShell Automation:** Designed scripts to enable remote software deployment, eliminating 3–6 days of downtime previously required for physical imaging.
-  
----
-
-### 🚧 Currently in Development
 * **ARC-AGI Agent (Knowledge-Based AI):** Implementing an agent based on the **CompressARC / MADIL** framework. The agent solves novel visual reasoning tasks by identifying transformations that minimize description length (Minimum Additive Description Information Length).
 * **Healthcare Analytics Practicum:** Upcoming group project (Spring 2026) focused on predictive modeling and statistical inference for clinical or operational medical outcomes.
 
