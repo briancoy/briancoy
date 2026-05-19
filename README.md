@@ -25,6 +25,7 @@ Highly analytical professional with a background in Mathematics and 17+ years of
 * **Operational Efficiency:** Leveraged exploratory data analysis to drive a **64% reduction in open tickets** within 6 months at ProMAX Systems.
 * **System Transformation:** Engineered SQL pipelines that achieved a **96% reduction in paper usage** and cut client processing time by **5 days**.
 * **Large-Scale ETL:** Architected a Python pipeline to ingest and store **12.2 million game records** for anomaly detection research.
+* **Data Modeling:** Creating the foundational data models for conversion from Salesforce to Microsoft Dynamics in a GCC High security environment.
 
 ---
 
